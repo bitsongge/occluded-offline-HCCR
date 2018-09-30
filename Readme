@@ -1,0 +1,3 @@
+img_augment: to generate the training set and testing set.
+img_inpainting: to inpaint the occluded chatacters.
+img_recognition: to recognize the generated charaters.
